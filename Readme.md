@@ -1,4 +1,4 @@
-####Start the application by command `npm start`
+#### Start the application by command `npm start`
 
 1. localhost:8000/park
 
@@ -22,10 +22,10 @@ reqBody: {
     carNo: <carNo>
 }
 
-####Run the test cases by command `npm test`
+#### Run the test cases by command `npm test`
 
 
-####.env file
+#### .env file
 update the .env file as per requirement
 
 PORT:- port number
